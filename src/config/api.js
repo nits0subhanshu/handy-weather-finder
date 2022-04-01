@@ -8,7 +8,7 @@ export const openWeatherMap = axios.create({
 
 // Base URL #2: 
 export const apache = axios.create({
-  baseURL: `http://inventory.ssrtechvision.com`
+  baseURL: `https://inventory.ssrtechvision.com`
 })
 
 
