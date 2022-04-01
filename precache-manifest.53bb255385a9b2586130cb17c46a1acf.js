@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99fcd9d84335f73d059a8953125b5629",
+    "revision": "ba33f535c079736dffbd95f7ce585c7b",
     "url": "/handy-weather-finder/index.html"
   },
   {
-    "revision": "81f5bcbba4f32edf9571",
+    "revision": "0eeea0c66643e48e4718",
     "url": "/handy-weather-finder/static/css/main.7b087816.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/handy-weather-finder/static/js/2.ca8083c9.chunk.js"
   },
   {
-    "revision": "81f5bcbba4f32edf9571",
-    "url": "/handy-weather-finder/static/js/main.bd71512a.chunk.js"
+    "revision": "0eeea0c66643e48e4718",
+    "url": "/handy-weather-finder/static/js/main.a23a327b.chunk.js"
   },
   {
     "revision": "e0072f0511ac0b5ea7c5",

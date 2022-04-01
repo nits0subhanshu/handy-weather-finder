@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/handy-weather-finder/static/css/main.7b087816.chunk.css",
-    "main.js": "/handy-weather-finder/static/js/main.bd71512a.chunk.js",
-    "main.js.map": "/handy-weather-finder/static/js/main.bd71512a.chunk.js.map",
+    "main.js": "/handy-weather-finder/static/js/main.a23a327b.chunk.js",
+    "main.js.map": "/handy-weather-finder/static/js/main.a23a327b.chunk.js.map",
     "runtime~main.js": "/handy-weather-finder/static/js/runtime~main.3e885f8c.js",
     "runtime~main.js.map": "/handy-weather-finder/static/js/runtime~main.3e885f8c.js.map",
     "static/js/2.ca8083c9.chunk.js": "/handy-weather-finder/static/js/2.ca8083c9.chunk.js",
     "static/js/2.ca8083c9.chunk.js.map": "/handy-weather-finder/static/js/2.ca8083c9.chunk.js.map",
     "index.html": "/handy-weather-finder/index.html",
-    "precache-manifest.6dc7484ab7fde323c515bcf2116557ae.js": "/handy-weather-finder/precache-manifest.6dc7484ab7fde323c515bcf2116557ae.js",
+    "precache-manifest.53bb255385a9b2586130cb17c46a1acf.js": "/handy-weather-finder/precache-manifest.53bb255385a9b2586130cb17c46a1acf.js",
     "service-worker.js": "/handy-weather-finder/service-worker.js",
     "static/css/main.7b087816.chunk.css.map": "/handy-weather-finder/static/css/main.7b087816.chunk.css.map",
     "static/media/style.css": "/handy-weather-finder/static/media/bg.b6796c73.jpg"
